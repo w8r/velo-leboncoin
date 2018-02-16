@@ -1,0 +1,10 @@
+.ads {
+  width: 100%;
+}
+
+.item {
+  display: block;
+  float: left;
+  margin: 10px;
+  width: 150px;
+}
